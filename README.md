@@ -12,7 +12,7 @@
 - [Amplify CLI](https://docs.amplify.aws/cli/start/install/) installed and configured
 
 
-![Architecture Diagram](image.png)
+![Architecture Diagram](architecture.png)
 ## Deployment Instructions
 
 1. Create a new directory, navigate to that directory in a terminal and clone the repository:
